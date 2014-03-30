@@ -10,7 +10,7 @@
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;Litecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Litecoin&lt;/b&gt; weergawe</translation>
+        <translation>&lt;b&gt;DilmaCoin&lt;/b&gt; weergawe</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -370,7 +370,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+4"/>
         <source>Show information about Litecoin</source>
-        <translation>Wys inligting oor Litecoin</translation>
+        <translation>Wys inligting oor DilmaCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -451,7 +451,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="-165"/>
         <location line="+530"/>
         <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <translation>DilmaCoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -2179,7 +2179,7 @@ Address: %4
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
         <source>Litecoin version</source>
-        <translation>Litecoin weergawe</translation>
+        <translation>DilmaCoin weergawe</translation>
     </message>
     <message>
         <location line="+102"/>

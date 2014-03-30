@@ -5,12 +5,12 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Litecoin</source>
-        <translation>Про Litecoin</translation>
+        <translation>Про DilmaCoin</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;Litecoin&lt;/b&gt; version</source>
-        <translation>Версія &lt;b&gt;Litecoin&apos;a&lt;b&gt;</translation>
+        <translation>Версія &lt;b&gt;DilmaCoin&apos;a&lt;b&gt;</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -108,7 +108,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-44"/>
         <source>Verify a message to ensure it was signed with a specified Litecoin address</source>
-        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною Litecoin-адресою</translation>
+        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною DilmaCoin-адресою</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -375,7 +375,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+4"/>
         <source>Show information about Litecoin</source>
-        <translation>Показати інформацію про Litecoin</translation>
+        <translation>Показати інформацію про DilmaCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -456,7 +456,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="-165"/>
         <location line="+530"/>
         <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <translation>DilmaCoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -481,7 +481,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+22"/>
         <source>&amp;About Litecoin</source>
-        <translation>&amp;Про Litecoin</translation>
+        <translation>&amp;Про DilmaCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -501,12 +501,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+7"/>
         <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Підтвердіть, що Ви є власником повідомлення підписавши його Вашою Litecoin-адресою </translation>
+        <translation>Підтвердіть, що Ви є власником повідомлення підписавши його Вашою DilmaCoin-адресою </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною Litecoin-адресою</translation>
+        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною DilmaCoin-адресою</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -537,7 +537,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+47"/>
         <source>Litecoin client</source>
-        <translation>Litecoin-клієнт</translation>
+        <translation>DilmaCoin-клієнт</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
@@ -657,7 +657,7 @@ Address: %4
         <location line="-23"/>
         <location line="+23"/>
         <source>URI can not be parsed! This can be caused by an invalid Litecoin address or malformed URI parameters.</source>
-        <translation>Неможливо обробити URI! Це може бути викликано неправильною Litecoin-адресою, чи невірними параметрами URI.</translation>
+        <translation>Неможливо обробити URI! Це може бути викликано неправильною DilmaCoin-адресою, чи невірними параметрами URI.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -738,7 +738,7 @@ Address: %4
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid Litecoin address.</source>
-        <translation>Введена адреса «%1» не є коректною адресою в мережі Litecoin.</translation>
+        <translation>Введена адреса «%1» не є коректною адресою в мережі DilmaCoin.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -757,7 +757,7 @@ Address: %4
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
         <source>Litecoin-Qt</source>
-        <translation>Litecoin-Qt</translation>
+        <translation>DilmaCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -855,7 +855,7 @@ Address: %4
     <message>
         <location line="+7"/>
         <source>Connect to the Litecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Підключатись до мережі Litecoin через SOCKS-проксі (наприклад при використанні Tor).</translation>
+        <translation>Підключатись до мережі DilmaCoin через SOCKS-проксі (наприклад при використанні Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -930,7 +930,7 @@ Address: %4
     <message>
         <location line="+13"/>
         <source>The user interface language can be set here. This setting will take effect after restarting Litecoin.</source>
-        <translation>Встановлює мову інтерфейсу. Зміни набудуть чинності після перезапуску Litecoin.</translation>
+        <translation>Встановлює мову інтерфейсу. Зміни набудуть чинності після перезапуску DilmaCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -997,7 +997,7 @@ Address: %4
         <location line="-9"/>
         <location line="+9"/>
         <source>This setting will take effect after restarting Litecoin.</source>
-        <translation>Цей параметр набуде чинності після перезапуску Litecoin.</translation>
+        <translation>Цей параметр набуде чинності після перезапуску DilmaCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1016,7 +1016,7 @@ Address: %4
         <location line="+50"/>
         <location line="+166"/>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Показана інформація вже може бути застарілою. Ваш гаманець буде автоматично синхронізовано з мережею Litecoin після встановлення підключення, але цей процес ще не завершено.</translation>
+        <translation>Показана інформація вже може бути застарілою. Ваш гаманець буде автоматично синхронізовано з мережею DilmaCoin після встановлення підключення, але цей процес ще не завершено.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1220,7 +1220,7 @@ Address: %4
     <message>
         <location line="+7"/>
         <source>Show the Litecoin-Qt help message to get a list with possible Litecoin command-line options.</source>
-        <translation>Показати довідку Litecoin-Qt для отримання переліку можливих параметрів командного рядка.</translation>
+        <translation>Показати довідку DilmaCoin-Qt для отримання переліку можливих параметрів командного рядка.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1240,7 +1240,7 @@ Address: %4
     <message>
         <location line="-104"/>
         <source>Litecoin - Debug window</source>
-        <translation>Litecoin - Вікно зневадження</translation>
+        <translation>DilmaCoin - Вікно зневадження</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -1265,7 +1265,7 @@ Address: %4
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
         <source>Welcome to the Litecoin RPC console.</source>
-        <translation>Вітаємо у консолі Litecoin RPC.</translation>
+        <translation>Вітаємо у консолі DilmaCoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1449,7 +1449,7 @@ Address: %4
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Введіть адресу Litecoin (наприклад Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Введіть адресу DilmaCoin (наприклад Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1472,7 +1472,7 @@ Address: %4
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Введіть адресу Litecoin (наприклад Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Введіть адресу DilmaCoin (наприклад Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1545,12 +1545,12 @@ Address: %4
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Введіть адресу Litecoin (наприклад Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Введіть адресу DilmaCoin (наприклад Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Verify the message to ensure it was signed with the specified Litecoin address</source>
-        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною Litecoin-адресою</translation>
+        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною DilmaCoin-адресою</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1566,7 +1566,7 @@ Address: %4
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Введіть адресу Litecoin (наприклад Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Введіть адресу DilmaCoin (наприклад Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1576,7 +1576,7 @@ Address: %4
     <message>
         <location line="+3"/>
         <source>Enter Litecoin signature</source>
-        <translation>Введіть сигнатуру Litecoin</translation>
+        <translation>Введіть сигнатуру DilmaCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2218,12 +2218,12 @@ Address: %4
     <message>
         <location line="+24"/>
         <source>Specify configuration file (default: litecoin.conf)</source>
-        <translation>Вкажіть файл конфігурації (типово: litecoin.conf)</translation>
+        <translation>Вкажіть файл конфігурації (типово: DilmaCoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Specify pid file (default: litecoind.pid)</source>
-        <translation>Вкажіть pid-файл (типово: litecoind.pid)</translation>
+        <translation>Вкажіть pid-файл (типово: DilmaCoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2368,7 +2368,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     <message>
         <location line="+3"/>
         <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Litecoin will not work properly.</source>
-        <translation>Увага: будь ласка, перевірте дату і час на своєму комп&apos;ютері. Якщо ваш годинник йде неправильно, Litecoin може працювати некоректно.</translation>
+        <translation>Увага: будь ласка, перевірте дату і час на своєму комп&apos;ютері. Якщо ваш годинник йде неправильно, DilmaCoin може працювати некоректно.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2618,7 +2618,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     <message>
         <location line="+5"/>
         <source>SSL options: (see the Litecoin Wiki for SSL setup instructions)</source>
-        <translation>Параметри SSL: (див. Litecoin Wiki для налаштування SSL)</translation>
+        <translation>Параметри SSL: (див. DilmaCoin Wiki для налаштування SSL)</translation>
     </message>
     <message>
         <location line="+1"/>

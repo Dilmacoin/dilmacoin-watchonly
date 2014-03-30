@@ -5,12 +5,12 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Litecoin</source>
-        <translation>Sobre Litecoin</translation>
+        <translation>Sobre DilmaCoin</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;Litecoin&lt;/b&gt; version</source>
-        <translation>Versão do &lt;b&gt;Litecoin&lt;/b&gt;</translation>
+        <translation>Versão do &lt;b&gt;DilmaCoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -35,7 +35,7 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     <message>
         <location line="+0"/>
         <source>The Litecoin developers</source>
-        <translation>Os programadores Litecoin</translation>
+        <translation>Os programadores DilmaCoin</translation>
     </message>
 </context>
 <context>
@@ -68,7 +68,7 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
         <source>These are your Litecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estes são os seus endereços Litecoin para receber pagamentos. Poderá enviar um endereço diferente para cada remetente para poder identificar os pagamentos.</translation>
+        <translation>Estes são os seus endereços DilmaCoin para receber pagamentos. Poderá enviar um endereço diferente para cada remetente para poder identificar os pagamentos.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -83,7 +83,7 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a Litecoin address</source>
-        <translation>Assine uma mensagem para provar que é dono de um endereço Litecoin</translation>
+        <translation>Assine uma mensagem para provar que é dono de um endereço DilmaCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -108,7 +108,7 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     <message>
         <location line="-44"/>
         <source>Verify a message to ensure it was signed with a specified Litecoin address</source>
-        <translation>Verifique a mensagem para assegurar que foi assinada com o endereço Litecoin especificado</translation>
+        <translation>Verifique a mensagem para assegurar que foi assinada com o endereço DilmaCoin especificado</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -123,7 +123,7 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
         <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estes são os seus endereços Litecoin para enviar pagamentos. Verifique sempre o valor e a morada de envio antes de enviar moedas.</translation>
+        <translation>Estes são os seus endereços DilmaCoin para enviar pagamentos. Verifique sempre o valor e a morada de envio antes de enviar moedas.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -249,7 +249,7 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Atenção: Se encriptar a carteira e perder a sua senha irá &lt;b&gt;PERDER TODOS OS SEUS LITECOINS&lt;/b&gt;!</translation>
+        <translation>Atenção: Se encriptar a carteira e perder a sua senha irá &lt;b&gt;PERDER TODOS OS SEUS DilmaCoinS&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -276,7 +276,7 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     <message>
         <location line="-56"/>
         <source>Litecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>O cliente Litecoin irá agora ser fechado para terminar o processo de encriptação. Recorde que a encriptação da sua carteira não protegerá totalmente os seus litecoins de serem roubados por programas maliciosos que infectem o seu computador.</translation>
+        <translation>O cliente DilmaCoin irá agora ser fechado para terminar o processo de encriptação. Recorde que a encriptação da sua carteira não protegerá totalmente os seus DilmaCoins de serem roubados por programas maliciosos que infectem o seu computador.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -375,7 +375,7 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     <message>
         <location line="+4"/>
         <source>Show information about Litecoin</source>
-        <translation>Mostrar informação sobre Litecoin</translation>
+        <translation>Mostrar informação sobre DilmaCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -420,12 +420,12 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     <message>
         <location line="-347"/>
         <source>Send coins to a Litecoin address</source>
-        <translation>Enviar moedas para um endereço litecoin</translation>
+        <translation>Enviar moedas para um endereço DilmaCoin</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Modify configuration options for Litecoin</source>
-        <translation>Modificar opções de configuração para litecoin</translation>
+        <translation>Modificar opções de configuração para DilmaCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -456,7 +456,7 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
         <location line="-165"/>
         <location line="+530"/>
         <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <translation>DilmaCoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -481,7 +481,7 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     <message>
         <location line="+22"/>
         <source>&amp;About Litecoin</source>
-        <translation>&amp;Sobre o Litecoin</translation>
+        <translation>&amp;Sobre o DilmaCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -501,12 +501,12 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     <message>
         <location line="+7"/>
         <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Assine mensagens com os seus endereços Litecoin para provar que os controla</translation>
+        <translation>Assine mensagens com os seus endereços DilmaCoin para provar que os controla</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Verifique mensagens para assegurar que foram assinadas com o endereço Litecoin especificado</translation>
+        <translation>Verifique mensagens para assegurar que foram assinadas com o endereço DilmaCoin especificado</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -537,12 +537,12 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     <message>
         <location line="+47"/>
         <source>Litecoin client</source>
-        <translation>Cliente Litecoin</translation>
+        <translation>Cliente DilmaCoin</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
         <source>%n active connection(s) to Litecoin network</source>
-        <translation><numerusform>%n ligação ativa à rede Litecoin</numerusform><numerusform>%n ligações ativas à rede Litecoin</numerusform></translation>
+        <translation><numerusform>%n ligação ativa à rede DilmaCoin</numerusform><numerusform>%n ligações ativas à rede DilmaCoin</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -657,7 +657,7 @@ Endereço: %4
         <location line="-23"/>
         <location line="+23"/>
         <source>URI can not be parsed! This can be caused by an invalid Litecoin address or malformed URI parameters.</source>
-        <translation>URI não foi lido correctamente! Isto pode ser causado por um endereço Litecoin inválido ou por parâmetros URI malformados.</translation>
+        <translation>URI não foi lido correctamente! Isto pode ser causado por um endereço DilmaCoin inválido ou por parâmetros URI malformados.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -672,7 +672,7 @@ Endereço: %4
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
         <source>A fatal error occurred. Litecoin can no longer continue safely and will quit.</source>
-        <translation>Ocorreu um erro fatal. O Litecoin não pode continuar com segurança e irá fechar.</translation>
+        <translation>Ocorreu um erro fatal. O DilmaCoin não pode continuar com segurança e irá fechar.</translation>
     </message>
 </context>
 <context>
@@ -738,7 +738,7 @@ Endereço: %4
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid Litecoin address.</source>
-        <translation>O endereço introduzido &quot;%1&quot; não é um endereço litecoin válido.</translation>
+        <translation>O endereço introduzido &quot;%1&quot; não é um endereço DilmaCoin válido.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -757,7 +757,7 @@ Endereço: %4
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
         <source>Litecoin-Qt</source>
-        <translation>Litecoin-Qt</translation>
+        <translation>DilmaCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -820,12 +820,12 @@ Endereço: %4
     <message>
         <location line="+31"/>
         <source>Automatically start Litecoin after logging in to the system.</source>
-        <translation>Começar o Litecoin automaticamente ao iniciar sessão no sistema.</translation>
+        <translation>Começar o DilmaCoin automaticamente ao iniciar sessão no sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Start Litecoin on system login</source>
-        <translation>&amp;Começar o Litecoin ao iniciar o sistema</translation>
+        <translation>&amp;Começar o DilmaCoin ao iniciar o sistema</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -845,7 +845,7 @@ Endereço: %4
     <message>
         <location line="+6"/>
         <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir a porta do cliente litecoin automaticamente no seu router. Isto penas funciona se o seu router suportar UPnP e este se encontrar ligado.</translation>
+        <translation>Abrir a porta do cliente DilmaCoin automaticamente no seu router. Isto penas funciona se o seu router suportar UPnP e este se encontrar ligado.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -855,7 +855,7 @@ Endereço: %4
     <message>
         <location line="+7"/>
         <source>Connect to the Litecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Ligar à rede Litecoin através de um proxy SOCKS (p.ex. quando ligar através de Tor).</translation>
+        <translation>Ligar à rede DilmaCoin através de um proxy SOCKS (p.ex. quando ligar através de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -930,7 +930,7 @@ Endereço: %4
     <message>
         <location line="+13"/>
         <source>The user interface language can be set here. This setting will take effect after restarting Litecoin.</source>
-        <translation>A linguagem da interface do utilizador pode ser definida aqui. Esta definição entrará em efeito após reiniciar o Litecoin.</translation>
+        <translation>A linguagem da interface do utilizador pode ser definida aqui. Esta definição entrará em efeito após reiniciar o DilmaCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -945,7 +945,7 @@ Endereço: %4
     <message>
         <location line="+9"/>
         <source>Whether to show Litecoin addresses in the transaction list or not.</source>
-        <translation>Se mostrar, ou não, os endereços Litecoin na lista de transações.</translation>
+        <translation>Se mostrar, ou não, os endereços DilmaCoin na lista de transações.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -997,7 +997,7 @@ Endereço: %4
         <location line="-9"/>
         <location line="+9"/>
         <source>This setting will take effect after restarting Litecoin.</source>
-        <translation>Esta opção entrará em efeito após reiniciar o Litecoin.</translation>
+        <translation>Esta opção entrará em efeito após reiniciar o DilmaCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1016,7 +1016,7 @@ Endereço: %4
         <location line="+50"/>
         <location line="+166"/>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>A informação mostrada poderá estar desatualizada. A sua carteira sincroniza automaticamente com a rede Litecoin depois de estabelecer ligação, mas este processo ainda não está completo.</translation>
+        <translation>A informação mostrada poderá estar desatualizada. A sua carteira sincroniza automaticamente com a rede DilmaCoin depois de estabelecer ligação, mas este processo ainda não está completo.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1070,7 +1070,7 @@ Endereço: %4
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
         <source>Cannot start litecoin: click-to-pay handler</source>
-        <translation>Impossível começar o modo clicar-para-pagar com litecoin:</translation>
+        <translation>Impossível começar o modo clicar-para-pagar com DilmaCoin:</translation>
     </message>
 </context>
 <context>
@@ -1220,7 +1220,7 @@ Endereço: %4
     <message>
         <location line="+7"/>
         <source>Show the Litecoin-Qt help message to get a list with possible Litecoin command-line options.</source>
-        <translation>Mostrar a mensagem de ajuda do Litecoin-Qt para obter uma lista com possíveis opções a usar na linha de comandos.</translation>
+        <translation>Mostrar a mensagem de ajuda do DilmaCoin-Qt para obter uma lista com possíveis opções a usar na linha de comandos.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1240,12 +1240,12 @@ Endereço: %4
     <message>
         <location line="-104"/>
         <source>Litecoin - Debug window</source>
-        <translation>Litecoin - Janela de depuração</translation>
+        <translation>DilmaCoin - Janela de depuração</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Litecoin Core</source>
-        <translation>Núcleo Litecoin</translation>
+        <translation>Núcleo DilmaCoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1265,7 +1265,7 @@ Endereço: %4
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
         <source>Welcome to the Litecoin RPC console.</source>
-        <translation>Bem-vindo à consola RPC Litecoin.</translation>
+        <translation>Bem-vindo à consola RPC DilmaCoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1449,7 +1449,7 @@ Endereço: %4
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduza um endereço Litecoin (p.ex. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Introduza um endereço DilmaCoin (p.ex. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1514,7 +1514,7 @@ Endereço: %4
     <message>
         <location line="+21"/>
         <source>Sign the message to prove you own this Litecoin address</source>
-        <translation>Assine uma mensagem para provar que é dono deste endereço Litecoin</translation>
+        <translation>Assine uma mensagem para provar que é dono deste endereço DilmaCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1550,7 +1550,7 @@ Endereço: %4
     <message>
         <location line="+40"/>
         <source>Verify the message to ensure it was signed with the specified Litecoin address</source>
-        <translation>Verifique a mensagem para assegurar que foi assinada com o endereço Litecoin especificado</translation>
+        <translation>Verifique a mensagem para assegurar que foi assinada com o endereço DilmaCoin especificado</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1566,7 +1566,7 @@ Endereço: %4
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduza um endereço Litecoin (p.ex. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Introduza um endereço DilmaCoin (p.ex. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1576,7 +1576,7 @@ Endereço: %4
     <message>
         <location line="+3"/>
         <source>Enter Litecoin signature</source>
-        <translation>Introduza assinatura Litecoin</translation>
+        <translation>Introduza assinatura DilmaCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1650,7 +1650,7 @@ Endereço: %4
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
         <source>The Litecoin developers</source>
-        <translation>Os programadores Litecoin</translation>
+        <translation>Os programadores DilmaCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2188,7 +2188,7 @@ Endereço: %4
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
         <source>Litecoin version</source>
-        <translation>Versão Litecoin</translation>
+        <translation>Versão DilmaCoin</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2198,7 +2198,7 @@ Endereço: %4
     <message>
         <location line="-29"/>
         <source>Send command to -server or litecoind</source>
-        <translation>Enviar comando para -server ou litecoind</translation>
+        <translation>Enviar comando para -server ou DilmaCoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2218,12 +2218,12 @@ Endereço: %4
     <message>
         <location line="+24"/>
         <source>Specify configuration file (default: litecoin.conf)</source>
-        <translation>Especificar ficheiro de configuração (por defeito: litecoin.conf)</translation>
+        <translation>Especificar ficheiro de configuração (por defeito: DilmaCoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Specify pid file (default: litecoind.pid)</source>
-        <translation>Especificar ficheiro pid (por defeito: litecoind.pid)</translation>
+        <translation>Especificar ficheiro pid (por defeito: DilmaCoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2333,7 +2333,7 @@ por exemplo: alertnotify=echo %%s | mail -s &quot;Alerta Litecoin&quot; admin@fo
     <message>
         <location line="+3"/>
         <source>Cannot obtain a lock on data directory %s. Litecoin is probably already running.</source>
-        <translation>Impossível trancar a pasta de dados %s.  Provavelmente o Litecoin já está a ser executado.</translation>
+        <translation>Impossível trancar a pasta de dados %s.  Provavelmente o DilmaCoin já está a ser executado.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2378,7 +2378,7 @@ por exemplo: alertnotify=echo %%s | mail -s &quot;Alerta Litecoin&quot; admin@fo
     <message>
         <location line="+3"/>
         <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Litecoin will not work properly.</source>
-        <translation>Atenção: Por favor verifique que a data e hora do seu computador estão correctas! Se o seu relógio não estiver certo o Litecoin não irá funcionar correctamente.</translation>
+        <translation>Atenção: Por favor verifique que a data e hora do seu computador estão correctas! Se o seu relógio não estiver certo o DilmaCoin não irá funcionar correctamente.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2628,7 +2628,7 @@ por exemplo: alertnotify=echo %%s | mail -s &quot;Alerta Litecoin&quot; admin@fo
     <message>
         <location line="+5"/>
         <source>SSL options: (see the Litecoin Wiki for SSL setup instructions)</source>
-        <translation>Opções SSL: (ver a Wiki Litecoin para instruções de configuração SSL)</translation>
+        <translation>Opções SSL: (ver a Wiki DilmaCoin para instruções de configuração SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2818,12 +2818,12 @@ por exemplo: alertnotify=echo %%s | mail -s &quot;Alerta Litecoin&quot; admin@fo
     <message>
         <location line="+1"/>
         <source>Error loading wallet.dat: Wallet requires newer version of Litecoin</source>
-        <translation>Erro ao carregar wallet.dat: A Carteira requer uma versão mais recente do Litecoin</translation>
+        <translation>Erro ao carregar wallet.dat: A Carteira requer uma versão mais recente do DilmaCoin</translation>
     </message>
     <message>
         <location line="+93"/>
         <source>Wallet needed to be rewritten: restart Litecoin to complete</source>
-        <translation>A Carteira precisou ser reescrita: reinicie o Litecoin para completar</translation>
+        <translation>A Carteira precisou ser reescrita: reinicie o DilmaCoin para completar</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2883,7 +2883,7 @@ por exemplo: alertnotify=echo %%s | mail -s &quot;Alerta Litecoin&quot; admin@fo
     <message>
         <location line="-25"/>
         <source>Unable to bind to %s on this computer. Litecoin is probably already running.</source>
-        <translation>Incapaz de vincular à porta %s neste computador.  Provavelmente o Litecoin já está a funcionar.</translation>
+        <translation>Incapaz de vincular à porta %s neste computador.  Provavelmente o DilmaCoin já está a funcionar.</translation>
     </message>
     <message>
         <location line="+64"/>

@@ -5,12 +5,12 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Litecoin</source>
-        <translation>O Litecoinu</translation>
+        <translation>O DilmaCoinu</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;Litecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Litecoin&lt;/b&gt; verzija</translation>
+        <translation>&lt;b&gt;DilmaCoin&lt;/b&gt; verzija</translation>
     </message>
     <message>
         <location line="+57"/>

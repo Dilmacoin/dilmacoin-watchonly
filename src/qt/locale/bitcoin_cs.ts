@@ -5,12 +5,12 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Litecoin</source>
-        <translation>O Litecoinu</translation>
+        <translation>O DilmaCoinu</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;Litecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Litecoin&lt;/b&gt; verze</translation>
+        <translation>&lt;b&gt;DilmaCoin&lt;/b&gt; verze</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -35,7 +35,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="+0"/>
         <source>The Litecoin developers</source>
-        <translation>Vývojáři Litecoinu</translation>
+        <translation>Vývojáři DilmaCoinu</translation>
     </message>
 </context>
 <context>
@@ -68,7 +68,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
         <source>These are your Litecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Tohle jsou tvé Litecoinové adresy pro příjem plateb. Můžeš dát pokaždé každému plátci novou adresu, abys věděl, kdo ti kdy kolik platil.</translation>
+        <translation>Tohle jsou tvé DilmaCoinové adresy pro příjem plateb. Můžeš dát pokaždé každému plátci novou adresu, abys věděl, kdo ti kdy kolik platil.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -83,7 +83,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a Litecoin address</source>
-        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem Litecoinové adresy</translation>
+        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem DilmaCoinové adresy</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -108,7 +108,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="-44"/>
         <source>Verify a message to ensure it was signed with a specified Litecoin address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Litecoinovou adresou</translation>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou DilmaCoinovou adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -123,7 +123,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
         <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tohle jsou tvé Litecoinové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
+        <translation>Tohle jsou tvé DilmaCoinové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -249,7 +249,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Varování: Pokud si zašifruješ peněženku a ztratíš či zapomeneš heslo, &lt;b&gt;PŘIJDEŠ O VŠECHNY LITECOINY&lt;/b&gt;!</translation>
+        <translation>Varování: Pokud si zašifruješ peněženku a ztratíš či zapomeneš heslo, &lt;b&gt;PŘIJDEŠ O VŠECHNY DilmaCoinY&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -276,7 +276,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="-56"/>
         <source>Litecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Litecoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých litecoinů malwarem, kterým se může počítač nakazit.</translation>
+        <translation>DilmaCoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých DilmaCoinů malwarem, kterým se může počítač nakazit.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -375,7 +375,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="+4"/>
         <source>Show information about Litecoin</source>
-        <translation>Zobraz informace o Litecoinu</translation>
+        <translation>Zobraz informace o DilmaCoinu</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -420,12 +420,12 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="-347"/>
         <source>Send coins to a Litecoin address</source>
-        <translation>Pošli mince na Litecoinovou adresu</translation>
+        <translation>Pošli mince na DilmaCoinovou adresu</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Modify configuration options for Litecoin</source>
-        <translation>Uprav nastavení Litecoinu</translation>
+        <translation>Uprav nastavení DilmaCoinu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -456,7 +456,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
         <location line="-165"/>
         <location line="+530"/>
         <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <translation>DilmaCoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -481,7 +481,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="+22"/>
         <source>&amp;About Litecoin</source>
-        <translation>O &amp;Litecoinu</translation>
+        <translation>O &amp;DilmaCoinu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -501,12 +501,12 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="+7"/>
         <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Podepiš zprávy svými Litecoinovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
+        <translation>Podepiš zprávy svými DilmaCoinovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými Litecoinovými adresami</translation>
+        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými DilmaCoinovými adresami</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -537,12 +537,12 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="+47"/>
         <source>Litecoin client</source>
-        <translation>Litecoin klient</translation>
+        <translation>DilmaCoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
         <source>%n active connection(s) to Litecoin network</source>
-        <translation><numerusform>%n aktivní spojení do Litecoinové sítě</numerusform><numerusform>%n aktivní spojení do Litecoinové sítě</numerusform><numerusform>%n aktivních spojení do Litecoinové sítě</numerusform></translation>
+        <translation><numerusform>%n aktivní spojení do Litecoinové sítě</numerusform><numerusform>%n aktivní spojení do DilmaCoinové sítě</numerusform><numerusform>%n aktivních spojení do DilmaCoinové sítě</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -657,7 +657,7 @@ Adresa: %4
         <location line="-23"/>
         <location line="+23"/>
         <source>URI can not be parsed! This can be caused by an invalid Litecoin address or malformed URI parameters.</source>
-        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná Litecoinová adresa nebo poškozené parametry URI.</translation>
+        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná DilmaCoinová adresa nebo poškozené parametry URI.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -672,7 +672,7 @@ Adresa: %4
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
         <source>A fatal error occurred. Litecoin can no longer continue safely and will quit.</source>
-        <translation>Stala se fatální chyba. Litecoin nemůže bezpečně pokračovat v činnosti, a proto skončí.</translation>
+        <translation>Stala se fatální chyba. DilmaCoin nemůže bezpečně pokračovat v činnosti, a proto skončí.</translation>
     </message>
 </context>
 <context>
@@ -738,7 +738,7 @@ Adresa: %4
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid Litecoin address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; není platná Litecoinová adresa.</translation>
+        <translation>Zadaná adresa &quot;%1&quot; není platná DilmaCoinová adresa.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -757,7 +757,7 @@ Adresa: %4
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
         <source>Litecoin-Qt</source>
-        <translation>Litecoin-Qt</translation>
+        <translation>DilmaCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -820,12 +820,12 @@ Adresa: %4
     <message>
         <location line="+31"/>
         <source>Automatically start Litecoin after logging in to the system.</source>
-        <translation>Automaticky spustí Litecoin po přihlášení do systému.</translation>
+        <translation>Automaticky spustí DilmaCoin po přihlášení do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Start Litecoin on system login</source>
-        <translation>S&amp;pustit Litecoin po přihlášení do systému</translation>
+        <translation>S&amp;pustit DilmaCoin po přihlášení do systému</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -855,7 +855,7 @@ Adresa: %4
     <message>
         <location line="+7"/>
         <source>Connect to the Litecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Připojí se do Litecoinové sítě přes SOCKS proxy (např. když se připojuje přes Tor).</translation>
+        <translation>Připojí se do DilmaCoinové sítě přes SOCKS proxy (např. když se připojuje přes Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -930,7 +930,7 @@ Adresa: %4
     <message>
         <location line="+13"/>
         <source>The user interface language can be set here. This setting will take effect after restarting Litecoin.</source>
-        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování Litecoinu.</translation>
+        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování DilmaCoinu.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -945,7 +945,7 @@ Adresa: %4
     <message>
         <location line="+9"/>
         <source>Whether to show Litecoin addresses in the transaction list or not.</source>
-        <translation>Zda ukazovat litecoinové adresy ve výpisu transakcí nebo ne.</translation>
+        <translation>Zda ukazovat DilmaCoinové adresy ve výpisu transakcí nebo ne.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -997,7 +997,7 @@ Adresa: %4
         <location line="-9"/>
         <location line="+9"/>
         <source>This setting will take effect after restarting Litecoin.</source>
-        <translation>Nastavení se projeví až po restartování Litecoinu.</translation>
+        <translation>Nastavení se projeví až po restartování DilmaCoinu.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1016,7 +1016,7 @@ Adresa: %4
         <location line="+50"/>
         <location line="+166"/>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s Litecoinovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
+        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s DilmaCoinovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1070,7 +1070,7 @@ Adresa: %4
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
         <source>Cannot start litecoin: click-to-pay handler</source>
-        <translation>Nemůžu spustit litecoin: obsluha click-to-pay</translation>
+        <translation>Nemůžu spustit DilmaCoin: obsluha click-to-pay</translation>
     </message>
 </context>
 <context>
@@ -1220,7 +1220,7 @@ Adresa: %4
     <message>
         <location line="+7"/>
         <source>Show the Litecoin-Qt help message to get a list with possible Litecoin command-line options.</source>
-        <translation>Seznam parametrů Litecoinu pro příkazovou řádku získáš v nápovědě Litecoinu Qt.</translation>
+        <translation>Seznam parametrů DilmaCoinu pro příkazovou řádku získáš v nápovědě DilmaCoinu Qt.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1240,12 +1240,12 @@ Adresa: %4
     <message>
         <location line="-104"/>
         <source>Litecoin - Debug window</source>
-        <translation>Litecoin - ladicí okno</translation>
+        <translation>DilmaCoin - ladicí okno</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Litecoin Core</source>
-        <translation>Jádro Litecoinu</translation>
+        <translation>Jádro DilmaCoinu</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1255,7 +1255,7 @@ Adresa: %4
     <message>
         <location line="+7"/>
         <source>Open the Litecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otevři soubor s ladicími záznamy Litecoinu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
+        <translation>Otevři soubor s ladicími záznamy DilmaCoinu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1265,7 +1265,7 @@ Adresa: %4
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
         <source>Welcome to the Litecoin RPC console.</source>
-        <translation>Vítej v Litecoinové RPC konzoli.</translation>
+        <translation>Vítej v DilmaCoinové RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1449,7 +1449,7 @@ Adresa: %4
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Zadej Litecoinovou adresu (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Zadej DilmaCoinovou adresu (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1514,7 +1514,7 @@ Adresa: %4
     <message>
         <location line="+21"/>
         <source>Sign the message to prove you own this Litecoin address</source>
-        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této Litecoinové adresy</translation>
+        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této DilmaCoinové adresy</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1550,7 +1550,7 @@ Adresa: %4
     <message>
         <location line="+40"/>
         <source>Verify the message to ensure it was signed with the specified Litecoin address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Litecoinovou adresou</translation>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou DilmaCoinovou adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1566,7 +1566,7 @@ Adresa: %4
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Zadej Litecoinovou adresu (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Zadej DilmaCoinovou adresu (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1576,7 +1576,7 @@ Adresa: %4
     <message>
         <location line="+3"/>
         <source>Enter Litecoin signature</source>
-        <translation>Vlož Litecoinový podpis</translation>
+        <translation>Vlož DilmaCoinový podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1650,7 +1650,7 @@ Adresa: %4
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
         <source>The Litecoin developers</source>
-        <translation>Vývojáři Litecoinu</translation>
+        <translation>Vývojáři DilmaCoinu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2188,7 +2188,7 @@ Adresa: %4
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
         <source>Litecoin version</source>
-        <translation>Verze Litecoinu</translation>
+        <translation>Verze DilmaCoinu</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2198,7 +2198,7 @@ Adresa: %4
     <message>
         <location line="-29"/>
         <source>Send command to -server or litecoind</source>
-        <translation>Poslat příkaz pro -server nebo litecoind</translation>
+        <translation>Poslat příkaz pro -server nebo DilmaCoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2218,12 +2218,12 @@ Adresa: %4
     <message>
         <location line="+24"/>
         <source>Specify configuration file (default: litecoin.conf)</source>
-        <translation>Konfigurační soubor (výchozí: litecoin.conf)</translation>
+        <translation>Konfigurační soubor (výchozí: DilmaCoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Specify pid file (default: litecoind.pid)</source>
-        <translation>PID soubor (výchozí: litecoind.pid)</translation>
+        <translation>PID soubor (výchozí: DilmaCoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2333,7 +2333,7 @@ například: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     <message>
         <location line="+3"/>
         <source>Cannot obtain a lock on data directory %s. Litecoin is probably already running.</source>
-        <translation>Nedaří se mi získat zámek na datový adresář %s. Litecoin pravděpodobně už jednou běží.</translation>
+        <translation>Nedaří se mi získat zámek na datový adresář %s. DilmaCoin pravděpodobně už jednou běží.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2378,7 +2378,7 @@ například: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     <message>
         <location line="+3"/>
         <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Litecoin will not work properly.</source>
-        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, Litecoin nebude fungovat správně.</translation>
+        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, DilmaCoin nebude fungovat správně.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2628,7 +2628,7 @@ například: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     <message>
         <location line="+5"/>
         <source>SSL options: (see the Litecoin Wiki for SSL setup instructions)</source>
-        <translation>Možnosti SSL: (viz instrukce nastavení SSL v Litecoin Wiki)</translation>
+        <translation>Možnosti SSL: (viz instrukce nastavení SSL v DilmaCoin Wiki)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2818,12 +2818,12 @@ například: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     <message>
         <location line="+1"/>
         <source>Error loading wallet.dat: Wallet requires newer version of Litecoin</source>
-        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi Litecoinu</translation>
+        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi DilmaCoinu</translation>
     </message>
     <message>
         <location line="+93"/>
         <source>Wallet needed to be rewritten: restart Litecoin to complete</source>
-        <translation>Soubor s peněženkou potřeboval přepsat: restartuj Litecoin, aby se operace dokončila</translation>
+        <translation>Soubor s peněženkou potřeboval přepsat: restartuj DilmaCoin, aby se operace dokončila</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2883,7 +2883,7 @@ například: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     <message>
         <location line="-25"/>
         <source>Unable to bind to %s on this computer. Litecoin is probably already running.</source>
-        <translation>Nedaří se mi připojit na %s na tomhle počítači. Litecoin už pravděpodobně jednou běží.</translation>
+        <translation>Nedaří se mi připojit na %s na tomhle počítači. DilmaCoin už pravděpodobně jednou běží.</translation>
     </message>
     <message>
         <location line="+64"/>

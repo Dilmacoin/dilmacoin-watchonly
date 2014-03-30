@@ -5,12 +5,12 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Litecoin</source>
-        <translation>О Litecoin-у</translation>
+        <translation>О DilmaCoin-у</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;Litecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Litecoin&lt;/b&gt; верзија</translation>
+        <translation>&lt;b&gt;DilmaCoin&lt;/b&gt; верзија</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -63,7 +63,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
         <source>These are your Litecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Ово су Ваше Litecoin адресе за примање уплата. Можете да сваком пошиљаоцу дате другачију адресу да би пратили ко је вршио уплате.</translation>
+        <translation>Ово су Ваше DilmaCoin адресе за примање уплата. Можете да сваком пошиљаоцу дате другачију адресу да би пратили ко је вршио уплате.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -244,7 +244,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Упозорење: Ако се ваш новчаник шифрује а потом изгубите лозинкзу, ви ћете &lt;b&gt;ИЗГУБИТИ СВЕ LITECOIN-Е&lt;/b&gt;!</translation>
+        <translation>Упозорење: Ако се ваш новчаник шифрује а потом изгубите лозинкзу, ви ћете &lt;b&gt;ИЗГУБИТИ СВЕ DilmaCoin-Е&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -271,7 +271,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-56"/>
         <source>Litecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Litecoin će se sad zatvoriti da bi završio  proces enkripcije. Zapamti da enkripcija tvog novčanika ne može u potpunosti da zaštiti tvoje litecoine da ne budu ukradeni od malawarea koji bi inficirao tvoj kompjuter.</translation>
+        <translation>DilmaCoin će se sad zatvoriti da bi završio  proces enkripcije. Zapamti da enkripcija tvog novčanika ne može u potpunosti da zaštiti tvoje DilmaCoine da ne budu ukradeni od malawarea koji bi inficirao tvoj kompjuter.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -370,7 +370,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+4"/>
         <source>Show information about Litecoin</source>
-        <translation>Прегледајте информације о Litecoin-у</translation>
+        <translation>Прегледајте информације о DilmaCoin-у</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -415,12 +415,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-347"/>
         <source>Send coins to a Litecoin address</source>
-        <translation>Пошаљите новац на litecoin адресу</translation>
+        <translation>Пошаљите новац на DilmaCoin адресу</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Modify configuration options for Litecoin</source>
-        <translation>Изаберите могућности litecoin-а</translation>
+        <translation>Изаберите могућности DilmaCoin-а</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -476,7 +476,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+22"/>
         <source>&amp;About Litecoin</source>
-        <translation>&amp;О Litecoin-у</translation>
+        <translation>&amp;О DilmaCoin-у</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -537,7 +537,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message numerus="yes">
         <location line="+141"/>
         <source>%n active connection(s) to Litecoin network</source>
-        <translation><numerusform>%n активна веза са Litecoin мрежом</numerusform><numerusform>%n активне везе са Litecoin мрежом</numerusform><numerusform>%n активних веза са Litecoin мрежом</numerusform></translation>
+        <translation><numerusform>%n активна веза са Litecoin мрежом</numerusform><numerusform>%n активне везе са DilmaCoin мрежом</numerusform><numerusform>%n активних веза са DilmaCoin мрежом</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -1440,7 +1440,7 @@ Address: %4
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Unesite Litecoin adresu (n.pr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Unesite DilmaCoin adresu (n.pr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1557,7 +1557,7 @@ Address: %4
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Unesite Litecoin adresu (n.pr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Unesite DilmaCoin adresu (n.pr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2179,7 +2179,7 @@ Address: %4
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
         <source>Litecoin version</source>
-        <translation>Litecoin верзија</translation>
+        <translation>DilmaCoin верзија</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2210,12 +2210,12 @@ Address: %4
     <message>
         <location line="+24"/>
         <source>Specify configuration file (default: litecoin.conf)</source>
-        <translation>Potvrdi željeni konfiguracioni fajl (podrazumevani:litecoin.conf)</translation>
+        <translation>Potvrdi željeni konfiguracioni fajl (podrazumevani:DilmaCoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Specify pid file (default: litecoind.pid)</source>
-        <translation>Konkretizuj pid fajl (podrazumevani: litecoind.pid)</translation>
+        <translation>Konkretizuj pid fajl (podrazumevani: DilmaCoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>

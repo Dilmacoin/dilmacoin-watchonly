@@ -5,12 +5,12 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Litecoin</source>
-        <translation>Informatio de Litecoin</translation>
+        <translation>Informatio de DilmaCoin</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;Litecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Litecoin&lt;/b&gt; versio</translation>
+        <translation>&lt;b&gt;DilmaCoin&lt;/b&gt; versio</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,7 +34,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     <message>
         <location line="+0"/>
         <source>The Litecoin developers</source>
-        <translation>Litecoin curatores</translation>
+        <translation>DilmaCoin curatores</translation>
     </message>
 </context>
 <context>
@@ -67,7 +67,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
         <source>These are your Litecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Haec sunt inscriptiones Litecoin tuae pro accipendo pensitationes.  Cupias variam ad quemque mittentem dare ut melius scias quem tibi pensare.</translation>
+        <translation>Haec sunt inscriptiones DilmaCoin tuae pro accipendo pensitationes.  Cupias variam ad quemque mittentem dare ut melius scias quem tibi pensare.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,7 +82,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a Litecoin address</source>
-        <translation>Signa nuntium ut demonstres inscriptionem Litecoin a te possessam esse</translation>
+        <translation>Signa nuntium ut demonstres inscriptionem DilmaCoin a te possessam esse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,7 +107,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     <message>
         <location line="-44"/>
         <source>Verify a message to ensure it was signed with a specified Litecoin address</source>
-        <translation>Verifica nuntium ut cures signatum esse cum specificata inscriptione Litecoin</translation>
+        <translation>Verifica nuntium ut cures signatum esse cum specificata inscriptione DilmaCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -275,7 +275,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     <message>
         <location line="-56"/>
         <source>Litecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Litecoin iam desinet ut finiat actionem cifrandi.  Memento cassidile cifrare non posse cuncte curare ne tui nummi clepantur ab malis programatibus in tuo computatro.</translation>
+        <translation>DilmaCoin iam desinet ut finiat actionem cifrandi.  Memento cassidile cifrare non posse cuncte curare ne tui nummi clepantur ab malis programatibus in tuo computatro.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,7 +374,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     <message>
         <location line="+4"/>
         <source>Show information about Litecoin</source>
-        <translation>Monstra informationem de Litecoin</translation>
+        <translation>Monstra informationem de DilmaCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,12 +419,12 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     <message>
         <location line="-347"/>
         <source>Send coins to a Litecoin address</source>
-        <translation>Mitte nummos ad inscriptionem Litecoin</translation>
+        <translation>Mitte nummos ad inscriptionem DilmaCoin</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Modify configuration options for Litecoin</source>
-        <translation>Muta configurationis optiones pro Litecoin</translation>
+        <translation>Muta configurationis optiones pro DilmaCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,7 +455,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
         <location line="-165"/>
         <location line="+530"/>
         <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <translation>DilmaCoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,7 +480,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     <message>
         <location line="+22"/>
         <source>&amp;About Litecoin</source>
-        <translation>&amp;Informatio de Litecoin</translation>
+        <translation>&amp;Informatio de DilmaCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,12 +500,12 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     <message>
         <location line="+7"/>
         <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Signa nuntios cum tuis inscriptionibus Litecoin ut demonstres te eas possidere</translation>
+        <translation>Signa nuntios cum tuis inscriptionibus DilmaCoin ut demonstres te eas possidere</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus Litecoin</translation>
+        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus DilmaCoin</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,12 +536,12 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     <message>
         <location line="+47"/>
         <source>Litecoin client</source>
-        <translation>Litecoin cliens</translation>
+        <translation>DilmaCoin cliens</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
         <source>%n active connection(s) to Litecoin network</source>
-        <translation><numerusform>%n activa conexio ad rete Litecoin</numerusform><numerusform>%n activae conexiones ad rete Litecoin</numerusform></translation>
+        <translation><numerusform>%n activa conexio ad rete DilmaCoin</numerusform><numerusform>%n activae conexiones ad rete DilmaCoin</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -656,7 +656,7 @@ Inscriptio: %4
         <location line="-23"/>
         <location line="+23"/>
         <source>URI can not be parsed! This can be caused by an invalid Litecoin address or malformed URI parameters.</source>
-        <translation>URI intellegi non posse!  Huius causa possit inscriptionem Litecoin non validam aut URI parametra maleformata.</translation>
+        <translation>URI intellegi non posse!  Huius causa possit inscriptionem DilmaCoin non validam aut URI parametra maleformata.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,7 +671,7 @@ Inscriptio: %4
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
         <source>A fatal error occurred. Litecoin can no longer continue safely and will quit.</source>
-        <translation>Error fatalis accidit.  Litecoin nondum pergere tute potest, et exibit.</translation>
+        <translation>Error fatalis accidit.  DilmaCoin nondum pergere tute potest, et exibit.</translation>
     </message>
 </context>
 <context>
@@ -737,7 +737,7 @@ Inscriptio: %4
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid Litecoin address.</source>
-        <translation>Inscriptio inserta &quot;%1&quot; non valida inscriptio Litecoin est.</translation>
+        <translation>Inscriptio inserta &quot;%1&quot; non valida inscriptio DilmaCoin est.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,7 +756,7 @@ Inscriptio: %4
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
         <source>Litecoin-Qt</source>
-        <translation>Litecoin-Qt</translation>
+        <translation>DilmaCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,12 +819,12 @@ Inscriptio: %4
     <message>
         <location line="+31"/>
         <source>Automatically start Litecoin after logging in to the system.</source>
-        <translation>Pelle Litecoin per se postquam in systema inire.</translation>
+        <translation>Pelle DilmaCoin per se postquam in systema inire.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Start Litecoin on system login</source>
-        <translation>&amp;Pelle Litecoin cum inire systema</translation>
+        <translation>&amp;Pelle DilmaCoin cum inire systema</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,7 +844,7 @@ Inscriptio: %4
     <message>
         <location line="+6"/>
         <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Aperi per se portam clientis Litecoin in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
+        <translation>Aperi per se portam clientis DilmaCoin in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -854,7 +854,7 @@ Inscriptio: %4
     <message>
         <location line="+7"/>
         <source>Connect to the Litecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecte ad rete Litecoin per SOCKS vicarium (e.g. quando conectens per Tor).</translation>
+        <translation>Connecte ad rete DilmaCoin per SOCKS vicarium (e.g. quando conectens per Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,7 +929,7 @@ Inscriptio: %4
     <message>
         <location line="+13"/>
         <source>The user interface language can be set here. This setting will take effect after restarting Litecoin.</source>
-        <translation>Lingua monstranda utenti hic constitui potest.  Haec configuratio effectiva erit postquam Litecoin iterum initiatum erit.</translation>
+        <translation>Lingua monstranda utenti hic constitui potest.  Haec configuratio effectiva erit postquam DilmaCoin iterum initiatum erit.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -944,7 +944,7 @@ Inscriptio: %4
     <message>
         <location line="+9"/>
         <source>Whether to show Litecoin addresses in the transaction list or not.</source>
-        <translation>Num monstrare inscriptiones Litecoin in enumeratione transactionum.</translation>
+        <translation>Num monstrare inscriptiones DilmaCoin in enumeratione transactionum.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,7 +996,7 @@ Inscriptio: %4
         <location line="-9"/>
         <location line="+9"/>
         <source>This setting will take effect after restarting Litecoin.</source>
-        <translation>Haec configuratio effectiva erit postquam Litecoin iterum initiatum erit.</translation>
+        <translation>Haec configuratio effectiva erit postquam DilmaCoin iterum initiatum erit.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,7 +1015,7 @@ Inscriptio: %4
         <location line="+50"/>
         <location line="+166"/>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete Litecoin postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
+        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete DilmaCoin postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1069,7 +1069,7 @@ Inscriptio: %4
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
         <source>Cannot start litecoin: click-to-pay handler</source>
-        <translation>Litecoin incipere non potest: cliccare-ad-pensandum handler</translation>
+        <translation>DilmaCoin incipere non potest: cliccare-ad-pensandum handler</translation>
     </message>
 </context>
 <context>
@@ -1219,7 +1219,7 @@ Inscriptio: %4
     <message>
         <location line="+7"/>
         <source>Show the Litecoin-Qt help message to get a list with possible Litecoin command-line options.</source>
-        <translation>Monstra nuntium auxilii Litecoin-Qt ut videas enumerationem possibilium optionum Litecoin mandati initiantis.</translation>
+        <translation>Monstra nuntium auxilii DilmaCoin-Qt ut videas enumerationem possibilium optionum DilmaCoin mandati initiantis.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,12 +1239,12 @@ Inscriptio: %4
     <message>
         <location line="-104"/>
         <source>Litecoin - Debug window</source>
-        <translation>Litecoin - Fenestra debug</translation>
+        <translation>DilmaCoin - Fenestra debug</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Litecoin Core</source>
-        <translation>Litecoin Nucleus</translation>
+        <translation>DilmaCoin Nucleus</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,7 +1254,7 @@ Inscriptio: %4
     <message>
         <location line="+7"/>
         <source>Open the Litecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Aperi plicam catalogi de Litecoin debug ex activo indice datorum.  Hoc possit pauca secunda pro plicis magnis catalogi.</translation>
+        <translation>Aperi plicam catalogi de DilmaCoin debug ex activo indice datorum.  Hoc possit pauca secunda pro plicis magnis catalogi.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1264,7 +1264,7 @@ Inscriptio: %4
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
         <source>Welcome to the Litecoin RPC console.</source>
-        <translation>Bene ventio in terminale RPC de Litecoin.</translation>
+        <translation>Bene ventio in terminale RPC de DilmaCoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1448,7 +1448,7 @@ Inscriptio: %4
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Insero inscriptionem Litecoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Insero inscriptionem DilmaCoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1513,7 +1513,7 @@ Inscriptio: %4
     <message>
         <location line="+21"/>
         <source>Sign the message to prove you own this Litecoin address</source>
-        <translation>Signa nuntium ut demonstres hanc inscriptionem Litecoin a te possessa esse</translation>
+        <translation>Signa nuntium ut demonstres hanc inscriptionem DilmaCoin a te possessa esse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1549,7 +1549,7 @@ Inscriptio: %4
     <message>
         <location line="+40"/>
         <source>Verify the message to ensure it was signed with the specified Litecoin address</source>
-        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione Litecoin</translation>
+        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione DilmaCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,7 +1565,7 @@ Inscriptio: %4
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Insere inscriptionem Litecoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Insere inscriptionem DilmaCoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,7 +1575,7 @@ Inscriptio: %4
     <message>
         <location line="+3"/>
         <source>Enter Litecoin signature</source>
-        <translation>Insere signationem Litecoin</translation>
+        <translation>Insere signationem DilmaCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,7 +1649,7 @@ Inscriptio: %4
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
         <source>The Litecoin developers</source>
-        <translation>Litecoin curatores</translation>
+        <translation>DilmaCoin curatores</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2187,7 +2187,7 @@ Inscriptio: %4
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
         <source>Litecoin version</source>
-        <translation>Versio de Litecoin</translation>
+        <translation>Versio de DilmaCoin</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2197,7 +2197,7 @@ Inscriptio: %4
     <message>
         <location line="-29"/>
         <source>Send command to -server or litecoind</source>
-        <translation>Mitte mandatum ad -server vel litecoind</translation>
+        <translation>Mitte mandatum ad -server vel DilmaCoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2217,12 +2217,12 @@ Inscriptio: %4
     <message>
         <location line="+24"/>
         <source>Specify configuration file (default: litecoin.conf)</source>
-        <translation>Specifica configurationis plicam (praedefinitum: litecoin.conf)</translation>
+        <translation>Specifica configurationis plicam (praedefinitum: DilmaCoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Specify pid file (default: litecoind.pid)</source>
-        <translation>Specifica pid plicam (praedefinitum: litecoin.pid)</translation>
+        <translation>Specifica pid plicam (praedefinitum: DilmaCoin.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2332,7 +2332,7 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Litecoin Notificatio&quot; 
     <message>
         <location line="+3"/>
         <source>Cannot obtain a lock on data directory %s. Litecoin is probably already running.</source>
-        <translation>Non posse serare datorum indicem %s.  Litecoin probabiliter iam operatur.</translation>
+        <translation>Non posse serare datorum indicem %s.  DilmaCoin probabiliter iam operatur.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2377,7 +2377,7 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Litecoin Notificatio&quot; 
     <message>
         <location line="+3"/>
         <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Litecoin will not work properly.</source>
-        <translation>Monitio: Sodes cura ut dies tempusque computatri tui recti sunt!  Si horologium tuum pravum est, Litecoin non proprie fungetur.</translation>
+        <translation>Monitio: Sodes cura ut dies tempusque computatri tui recti sunt!  Si horologium tuum pravum est, DilmaCoin non proprie fungetur.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2627,7 +2627,7 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Litecoin Notificatio&quot; 
     <message>
         <location line="+5"/>
         <source>SSL options: (see the Litecoin Wiki for SSL setup instructions)</source>
-        <translation>Optiones SSL: (vide vici de Litecoin pro instructionibus SSL configurationis)</translation>
+        <translation>Optiones SSL: (vide vici de DilmaCoin pro instructionibus SSL configurationis)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,12 +2817,12 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Litecoin Notificatio&quot; 
     <message>
         <location line="+1"/>
         <source>Error loading wallet.dat: Wallet requires newer version of Litecoin</source>
-        <translation>Error legendi wallet.dat: Cassidili necesse est recentior versio Litecoin</translation>
+        <translation>Error legendi wallet.dat: Cassidili necesse est recentior versio DilmaCoin</translation>
     </message>
     <message>
         <location line="+93"/>
         <source>Wallet needed to be rewritten: restart Litecoin to complete</source>
-        <translation>Cassidili necesse erat rescribi: Repelle Litecoin ut compleas</translation>
+        <translation>Cassidili necesse erat rescribi: Repelle DilmaCoin ut compleas</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,7 +2882,7 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Litecoin Notificatio&quot; 
     <message>
         <location line="-25"/>
         <source>Unable to bind to %s on this computer. Litecoin is probably already running.</source>
-        <translation>Non posse conglutinare ad %s in hoc cumputatro.  Litecoin probabiliter iam operatur.</translation>
+        <translation>Non posse conglutinare ad %s in hoc cumputatro.  DilmaCoin probabiliter iam operatur.</translation>
     </message>
     <message>
         <location line="+64"/>

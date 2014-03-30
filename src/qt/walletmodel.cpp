@@ -44,9 +44,8 @@ qint64 WalletModel::getBalance(const CCoinControl *coinControl) const
         std::vector<COutput> vCoins;
         wallet->AvailableCoins(vCoins, true, coinControl);
         BOOST_FOREACH(const COutput& out, vCoins)
-            if(out.fSpendable)
-                nBalance += out.tx->vout[out.i].nValue;
-
+            nBalance += out.tx->vout[out.i].nValue;   
+        
         return nBalance;
     }
     
@@ -405,7 +404,7 @@ void WalletModel::getOutputs(const std::vector<COutPoint>& vOutpoints, std::vect
     BOOST_FOREACH(const COutPoint& outpoint, vOutpoints)
     {
         if (!wallet->mapWallet.count(outpoint.hash)) continue;
-        COutput out(&wallet->mapWallet[outpoint.hash], outpoint.n, wallet->mapWallet[outpoint.hash].GetDepthInMainChain(), true);
+        COutput out(&wallet->mapWallet[outpoint.hash], outpoint.n, wallet->mapWallet[outpoint.hash].GetDepthInMainChain());
         vOutputs.push_back(out);
     }
 }
@@ -423,7 +422,7 @@ void WalletModel::listCoins(std::map<QString, std::vector<COutput> >& mapCoins) 
     BOOST_FOREACH(const COutPoint& outpoint, vLockedCoins)
     {
         if (!wallet->mapWallet.count(outpoint.hash)) continue;
-        COutput out(&wallet->mapWallet[outpoint.hash], outpoint.n, wallet->mapWallet[outpoint.hash].GetDepthInMainChain(), true);
+        COutput out(&wallet->mapWallet[outpoint.hash], outpoint.n, wallet->mapWallet[outpoint.hash].GetDepthInMainChain());
         vCoins.push_back(out);
     }
        
@@ -434,12 +433,11 @@ void WalletModel::listCoins(std::map<QString, std::vector<COutput> >& mapCoins) 
         while (wallet->IsChange(cout.tx->vout[cout.i]) && cout.tx->vin.size() > 0 && wallet->IsMine(cout.tx->vin[0]))
         {
             if (!wallet->mapWallet.count(cout.tx->vin[0].prevout.hash)) break;
-            cout = COutput(&wallet->mapWallet[cout.tx->vin[0].prevout.hash], cout.tx->vin[0].prevout.n, 0, true);
+            cout = COutput(&wallet->mapWallet[cout.tx->vin[0].prevout.hash], cout.tx->vin[0].prevout.n, 0);
         }
 
         CTxDestination address;
-        if(!out.fSpendable || !ExtractDestination(cout.tx->vout[cout.i].scriptPubKey, address))
-            continue;
+        if(!ExtractDestination(cout.tx->vout[cout.i].scriptPubKey, address)) continue;
         mapCoins[CBitcoinAddress(address).ToString().c_str()].push_back(out);
     }
 }

@@ -845,7 +845,7 @@ Address: %4
     <message>
         <location line="+6"/>
         <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>自動在路由器上開啟 Litecoin 的客戶端通訊埠. 只有在你的路由器支援 UPnP 且開啟時才有作用.</translation>
+        <translation>自動在路由器上開啟 DilmaCoin 的客戶端通訊埠. 只有在你的路由器支援 UPnP 且開啟時才有作用.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1070,7 +1070,7 @@ Address: %4
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
         <source>Cannot start litecoin: click-to-pay handler</source>
-        <translation>無法啟動 litecoin 隨按隨付處理器</translation>
+        <translation>無法啟動 DilmaCoin 隨按隨付處理器</translation>
     </message>
 </context>
 <context>
@@ -2638,7 +2638,7 @@ alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo.com
     <message>
         <location line="+5"/>
         <source>SSL options: (see the Litecoin Wiki for SSL setup instructions)</source>
-        <translation>SSL 選項: (SSL 設定程序請見 Litecoin Wiki)</translation>
+        <translation>SSL 選項: (SSL 設定程序請見 DilmaCoin Wiki)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2835,7 +2835,7 @@ alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo.com
     <message>
         <location line="+1"/>
         <source>Error loading wallet.dat: Wallet requires newer version of Litecoin</source>
-        <translation>載入檔案 wallet.dat 失敗: 此錢包需要新版的 Litecoin</translation>
+        <translation>載入檔案 wallet.dat 失敗: 此錢包需要新版的 DilmaCoin</translation>
     </message>
     <message>
         <location line="+93"/>

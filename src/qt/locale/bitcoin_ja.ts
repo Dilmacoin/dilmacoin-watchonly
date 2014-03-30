@@ -5,12 +5,12 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Litecoin</source>
-        <translation>Litecoinについて</translation>
+        <translation>DilmaCoinについて</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;Litecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Litecoin&lt;/b&gt; バージョン</translation>
+        <translation>&lt;b&gt;DilmaCoin&lt;/b&gt; バージョン</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -370,7 +370,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+4"/>
         <source>Show information about Litecoin</source>
-        <translation>Litecoinに関する情報を見る</translation>
+        <translation>DilmaCoinに関する情報を見る</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2179,7 +2179,7 @@ Address: %4
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
         <source>Litecoin version</source>
-        <translation>Litecoin Bertsio</translation>
+        <translation>DilmaCoin Bertsio</translation>
     </message>
     <message>
         <location line="+102"/>

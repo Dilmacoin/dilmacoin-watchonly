@@ -5,12 +5,12 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Litecoin</source>
-        <translation>O Litecoin-u</translation>
+        <translation>O DilmaCoin-u</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;Litecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Litecoin&lt;/b&gt; verzija</translation>
+        <translation>&lt;b&gt;DilmaCoin&lt;/b&gt; verzija</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -63,7 +63,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
         <source>These are your Litecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Ovo su vaše Litecoin adrese za primanje isplate. Možda želite dati drukčiju adresu svakom primatelju tako da možete pratiti tko je platio.</translation>
+        <translation>Ovo su vaše DilmaCoin adrese za primanje isplate. Možda želite dati drukčiju adresu svakom primatelju tako da možete pratiti tko je platio.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -244,7 +244,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Upozorenje: Ako šifrirate vaš novčanik i izgubite lozinku, &lt;b&gt;IZGUBIT ĆETE SVE SVOJE LITECOINSE!&lt;/b&gt;</translation>
+        <translation>Upozorenje: Ako šifrirate vaš novčanik i izgubite lozinku, &lt;b&gt;IZGUBIT ĆETE SVE SVOJE DilmaCoinSE!&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -271,7 +271,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-56"/>
         <source>Litecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Litecoin će se sada zatvoriti kako bi dovršio postupak šifriranja. Zapamtite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše litecoine od krađe preko zloćudnog softvera koji bi bio na vašem računalu.</translation>
+        <translation>DilmaCoin će se sada zatvoriti kako bi dovršio postupak šifriranja. Zapamtite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše DilmaCoine od krađe preko zloćudnog softvera koji bi bio na vašem računalu.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -370,7 +370,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+4"/>
         <source>Show information about Litecoin</source>
-        <translation>Prikaži informacije o Litecoinu</translation>
+        <translation>Prikaži informacije o DilmaCoinu</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -415,12 +415,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-347"/>
         <source>Send coins to a Litecoin address</source>
-        <translation>Slanje novca na litecoin adresu</translation>
+        <translation>Slanje novca na DilmaCoin adresu</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Modify configuration options for Litecoin</source>
-        <translation>Promijeni postavke konfiguracije za litecoin</translation>
+        <translation>Promijeni postavke konfiguracije za DilmaCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -451,7 +451,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="-165"/>
         <location line="+530"/>
         <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <translation>DilmaCoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -476,7 +476,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+22"/>
         <source>&amp;About Litecoin</source>
-        <translation>&amp;O Litecoinu</translation>
+        <translation>&amp;O DilmaCoinu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -532,12 +532,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+47"/>
         <source>Litecoin client</source>
-        <translation>Litecoin klijent</translation>
+        <translation>DilmaCoin klijent</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
         <source>%n active connection(s) to Litecoin network</source>
-        <translation><numerusform>%n aktivna veza na Litecoin mrežu</numerusform><numerusform>%n aktivne veze na Litecoin mrežu</numerusform><numerusform>%n aktivnih veza na Litecoin mrežu</numerusform></translation>
+        <translation><numerusform>%n aktivna veza na Litecoin mrežu</numerusform><numerusform>%n aktivne veze na DilmaCoin mrežu</numerusform><numerusform>%n aktivnih veza na DilmaCoin mrežu</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -733,7 +733,7 @@ Adresa:%4
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid Litecoin address.</source>
-        <translation>Upisana adresa &quot;%1&quot; nije valjana litecoin adresa.</translation>
+        <translation>Upisana adresa &quot;%1&quot; nije valjana DilmaCoin adresa.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -815,12 +815,12 @@ Adresa:%4
     <message>
         <location line="+31"/>
         <source>Automatically start Litecoin after logging in to the system.</source>
-        <translation>Automatski pokreni Litecoin kad se uključi računalo</translation>
+        <translation>Automatski pokreni DilmaCoin kad se uključi računalo</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Start Litecoin on system login</source>
-        <translation>&amp;Pokreni Litecoin kod pokretanja sustava</translation>
+        <translation>&amp;Pokreni DilmaCoin kod pokretanja sustava</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -840,7 +840,7 @@ Adresa:%4
     <message>
         <location line="+6"/>
         <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatski otvori port Litecoin klijenta na ruteru. To radi samo ako ruter podržava UPnP i ako je omogućen.</translation>
+        <translation>Automatski otvori port DilmaCoin klijenta na ruteru. To radi samo ako ruter podržava UPnP i ako je omogućen.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -935,7 +935,7 @@ Adresa:%4
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Izaberite željeni najmanji dio litecoina koji će biti prikazan u sučelju i koji će se koristiti za plaćanje.</translation>
+        <translation>Izaberite željeni najmanji dio DilmaCoina koji će biti prikazan u sučelju i koji će se koristiti za plaćanje.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1444,7 +1444,7 @@ Adresa:%4
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Unesite Litecoin adresu (npr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Unesite DilmaCoin adresu (npr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1467,7 +1467,7 @@ Adresa:%4
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Unesite Litecoin adresu (npr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Unesite DilmaCoin adresu (npr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1540,7 +1540,7 @@ Adresa:%4
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Unesite Litecoin adresu (npr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Unesite DilmaCoin adresu (npr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -1561,7 +1561,7 @@ Adresa:%4
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Unesite Litecoin adresu (npr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Unesite DilmaCoin adresu (npr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2183,7 +2183,7 @@ Adresa:%4
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
         <source>Litecoin version</source>
-        <translation>Litecoin verzija</translation>
+        <translation>DilmaCoin verzija</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2193,7 +2193,7 @@ Adresa:%4
     <message>
         <location line="-29"/>
         <source>Send command to -server or litecoind</source>
-        <translation>Pošalji komandu usluzi -server ili litecoind</translation>
+        <translation>Pošalji komandu usluzi -server ili DilmaCoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2213,12 +2213,12 @@ Adresa:%4
     <message>
         <location line="+24"/>
         <source>Specify configuration file (default: litecoin.conf)</source>
-        <translation>Odredi konfiguracijsku datoteku (ugrađeni izbor: litecoin.conf)</translation>
+        <translation>Odredi konfiguracijsku datoteku (ugrađeni izbor: DilmaCoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Specify pid file (default: litecoind.pid)</source>
-        <translation>Odredi proces ID datoteku (ugrađeni izbor: litecoin.pid)</translation>
+        <translation>Odredi proces ID datoteku (ugrađeni izbor: DilmaCoin.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2363,7 +2363,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     <message>
         <location line="+3"/>
         <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Litecoin will not work properly.</source>
-        <translation>Upozorenje: Molimo provjerite jesu li datum i vrijeme na vašem računalu točni. Ako vaš sat ide krivo, Litecoin neće raditi ispravno.</translation>
+        <translation>Upozorenje: Molimo provjerite jesu li datum i vrijeme na vašem računalu točni. Ako vaš sat ide krivo, DilmaCoin neće raditi ispravno.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2613,7 +2613,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     <message>
         <location line="+5"/>
         <source>SSL options: (see the Litecoin Wiki for SSL setup instructions)</source>
-        <translation>SSL postavke: (za detalje o podešavanju SSL opcija vidi Litecoin Wiki)</translation>
+        <translation>SSL postavke: (za detalje o podešavanju SSL opcija vidi DilmaCoin Wiki)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2803,12 +2803,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     <message>
         <location line="+1"/>
         <source>Error loading wallet.dat: Wallet requires newer version of Litecoin</source>
-        <translation>Greška kod učitavanja wallet.dat: Novčanik zahtjeva noviju verziju Litecoina</translation>
+        <translation>Greška kod učitavanja wallet.dat: Novčanik zahtjeva noviju verziju DilmaCoina</translation>
     </message>
     <message>
         <location line="+93"/>
         <source>Wallet needed to be rewritten: restart Litecoin to complete</source>
-        <translation>Novčanik je trebao prepravak: ponovo pokrenite Litecoin</translation>
+        <translation>Novčanik je trebao prepravak: ponovo pokrenite DilmaCoin</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2868,7 +2868,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     <message>
         <location line="-25"/>
         <source>Unable to bind to %s on this computer. Litecoin is probably already running.</source>
-        <translation>Program ne može koristiti %s na ovom računalu.  Litecoin program je vjerojatno već pokrenut.</translation>
+        <translation>Program ne može koristiti %s na ovom računalu.  DilmaCoin program je vjerojatno već pokrenut.</translation>
     </message>
     <message>
         <location line="+64"/>

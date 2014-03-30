@@ -35,7 +35,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <source>The Litecoin developers</source>
-        <translation>Litecoin-qt 客户端开发团队</translation>
+        <translation>DilmaCoin-qt 客户端开发团队</translation>
     </message>
 </context>
 <context>
@@ -757,7 +757,7 @@ Address: %4
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
         <source>Litecoin-Qt</source>
-        <translation>Litecoin-Qt</translation>
+        <translation>DilmaCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1221,7 +1221,7 @@ Address: %4
     <message>
         <location line="+7"/>
         <source>Show the Litecoin-Qt help message to get a list with possible Litecoin command-line options.</source>
-        <translation>显示Litecoin命令行选项帮助信息</translation>
+        <translation>显示DilmaCoin命令行选项帮助信息</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1651,7 +1651,7 @@ Address: %4
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
         <source>The Litecoin developers</source>
-        <translation>Litecoin-qt 客户端开发团队</translation>
+        <translation>DilmaCoin-qt 客户端开发团队</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2640,7 +2640,7 @@ rpcpassword=%s
     <message>
         <location line="+5"/>
         <source>SSL options: (see the Litecoin Wiki for SSL setup instructions)</source>
-        <translation>SSL选项：(参见Litecoin Wiki关于SSL设置栏目)</translation>
+        <translation>SSL选项：(参见DilmaCoin Wiki关于SSL设置栏目)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2840,12 +2840,12 @@ rpcpassword=%s
     <message>
         <location line="+1"/>
         <source>Error loading wallet.dat: Wallet requires newer version of Litecoin</source>
-        <translation>wallet.dat钱包文件加载错误：请升级到最新Litecoin客户端</translation>
+        <translation>wallet.dat钱包文件加载错误：请升级到最新DilmaCoin客户端</translation>
     </message>
     <message>
         <location line="+93"/>
         <source>Wallet needed to be rewritten: restart Litecoin to complete</source>
-        <translation>钱包文件需要重写：请退出并重新启动Litecoin客户端</translation>
+        <translation>钱包文件需要重写：请退出并重新启动DilmaCoin客户端</translation>
     </message>
     <message>
         <location line="-95"/>

@@ -5,7 +5,7 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Litecoin</source>
-        <translation>A prop de Litecoin</translation>
+        <translation>A prop de DilmaCoin</translation>
     </message>
     <message>
         <location line="+39"/>

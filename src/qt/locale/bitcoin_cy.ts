@@ -10,7 +10,7 @@
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;Litecoin&lt;/b&gt; version</source>
-        <translation>Fersiwn &lt;b&gt;Litecoin&lt;/b&gt;</translation>
+        <translation>Fersiwn &lt;b&gt;DilmaCoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -370,7 +370,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+4"/>
         <source>Show information about Litecoin</source>
-        <translation>Dangos gwybodaeth am Litecoin</translation>
+        <translation>Dangos gwybodaeth am DilmaCoin</translation>
     </message>
     <message>
         <location line="+2"/>

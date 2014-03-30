@@ -756,7 +756,7 @@ Address: %4
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
         <source>Litecoin-Qt</source>
-        <translation>Litecoin-Qt</translation>
+        <translation>DilmaCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1219,7 +1219,7 @@ Address: %4
     <message>
         <location line="+7"/>
         <source>Show the Litecoin-Qt help message to get a list with possible Litecoin command-line options.</source>
-        <translation>הצג את הודעה העזרה של litecoin-qt כדי לקבל רשימה של אפשרויות שורת פקודה של לייטקוין.</translation>
+        <translation>הצג את הודעה העזרה של DilmaCoin-qt כדי לקבל רשימה של אפשרויות שורת פקודה של לייטקוין.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2197,7 +2197,7 @@ Address: %4
     <message>
         <location line="-29"/>
         <source>Send command to -server or litecoind</source>
-        <translation>שלח פקודה ל -server או litecoind</translation>
+        <translation>שלח פקודה ל -server או DilmaCoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2217,12 +2217,12 @@ Address: %4
     <message>
         <location line="+24"/>
         <source>Specify configuration file (default: litecoin.conf)</source>
-        <translation>ציין קובץ הגדרות (ברירת מחדל: litecoin.conf)</translation>
+        <translation>ציין קובץ הגדרות (ברירת מחדל: DilmaCoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Specify pid file (default: litecoind.pid)</source>
-        <translation>ציין קובץ pid (ברירת מחדל: litecoind.pid)</translation>
+        <translation>ציין קובץ pid (ברירת מחדל: DilmaCoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>

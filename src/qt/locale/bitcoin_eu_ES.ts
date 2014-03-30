@@ -5,12 +5,12 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Litecoin</source>
-        <translation>Litecoin-i buruz</translation>
+        <translation>DilmaCoin-i buruz</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;Litecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Litecoin&lt;/b&gt; bertsioa</translation>
+        <translation>&lt;b&gt;DilmaCoin&lt;/b&gt; bertsioa</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -370,7 +370,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+4"/>
         <source>Show information about Litecoin</source>
-        <translation>Erakutsi Litecoin-i buruzko informazioa</translation>
+        <translation>Erakutsi DilmaCoin-i buruzko informazioa</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -380,7 +380,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Show information about Qt</source>
-        <translation>Erakutsi Litecoin-i buruzko informazioa</translation>
+        <translation>Erakutsi DilmaCoin-i buruzko informazioa</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -537,7 +537,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message numerus="yes">
         <location line="+141"/>
         <source>%n active connection(s) to Litecoin network</source>
-        <translation><numerusform>Konexio aktibo %n Litecoin-en sarera</numerusform><numerusform>%n konexio aktibo Litecoin-en sarera</numerusform></translation>
+        <translation><numerusform>Konexio aktibo %n DilmaCoin-en sarera</numerusform><numerusform>%n konexio aktibo DilmaCoin-en sarera</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -2209,12 +2209,12 @@ Address: %4
     <message>
         <location line="+24"/>
         <source>Specify configuration file (default: litecoin.conf)</source>
-        <translation>Ezarpen fitxategia aukeratu (berezkoa: litecoin.conf)</translation>
+        <translation>Ezarpen fitxategia aukeratu (berezkoa: DilmaCoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Specify pid file (default: litecoind.pid)</source>
-        <translation>pid fitxategia aukeratu (berezkoa: litecoind.pid)</translation>
+        <translation>pid fitxategia aukeratu (berezkoa: DilmaCoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>

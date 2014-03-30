@@ -5,12 +5,12 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Litecoin</source>
-        <translation>Pri Litecoin</translation>
+        <translation>Pri DilmaCoin</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;Litecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Litecoin&lt;/b&gt;-a versio</translation>
+        <translation>&lt;b&gt;DilmaCoin&lt;/b&gt;-a versio</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -748,7 +748,7 @@ Address: %4
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
         <source>Litecoin-Qt</source>
-        <translation>Litecoin-Qt</translation>
+        <translation>DilmaCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -2179,7 +2179,7 @@ Address: %4
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
         <source>Litecoin version</source>
-        <translation>Litecoin-a versio</translation>
+        <translation>DilmaCoin-a versio</translation>
     </message>
     <message>
         <location line="+102"/>

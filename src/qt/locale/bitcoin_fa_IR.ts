@@ -10,7 +10,7 @@
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;Litecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Litecoin&lt;/b&gt; version</translation>
+        <translation>&lt;b&gt;DilmaCoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -271,7 +271,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-56"/>
         <source>Litecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Litecoin برای اتمام فرایند رمزگذاری بسته خواهد شد. به خاطر داشته باشید که رمزگذاری WALLET شما،  کامپیوتر شما را از آلودگی به بدافزارها مصون نمی دارد.</translation>
+        <translation>DilmaCoin برای اتمام فرایند رمزگذاری بسته خواهد شد. به خاطر داشته باشید که رمزگذاری WALLET شما،  کامپیوتر شما را از آلودگی به بدافزارها مصون نمی دارد.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -370,7 +370,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+4"/>
         <source>Show information about Litecoin</source>
-        <translation>اطلاعات در مورد Litecoin را نشان بده</translation>
+        <translation>اطلاعات در مورد DilmaCoin را نشان بده</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -420,7 +420,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+49"/>
         <source>Modify configuration options for Litecoin</source>
-        <translation>اصلاح انتخابها برای پیکربندی Litecoin</translation>
+        <translation>اصلاح انتخابها برای پیکربندی DilmaCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -451,7 +451,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="-165"/>
         <location line="+530"/>
         <source>Litecoin</source>
-        <translation>litecoin</translation>
+        <translation>DilmaCoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -532,7 +532,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+47"/>
         <source>Litecoin client</source>
-        <translation>مشتری litecoin</translation>
+        <translation>مشتری DilmaCoin</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
@@ -731,7 +731,7 @@ Address: %4
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid Litecoin address.</source>
-        <translation>آدرس وارد شده &quot;%1&quot; یک آدرس صحیح برای litecoin نسشت</translation>
+        <translation>آدرس وارد شده &quot;%1&quot; یک آدرس صحیح برای DilmaCoin نسشت</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1009,7 +1009,7 @@ Address: %4
         <location line="+50"/>
         <location line="+166"/>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>اطلاعات نمایش داده شده ممکن است روزآمد نباشد. wallet شما به صورت خودکار بعد از برقراری اتصال با شبکه litecoin به روز می شود اما این فرایند هنوز تکمیل نشده است.</translation>
+        <translation>اطلاعات نمایش داده شده ممکن است روزآمد نباشد. wallet شما به صورت خودکار بعد از برقراری اتصال با شبکه DilmaCoin به روز می شود اما این فرایند هنوز تکمیل نشده است.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1259,7 +1259,7 @@ Address: %4
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
         <source>Welcome to the Litecoin RPC console.</source>
-        <translation>به کنسول آر.پی.سی. LITECOIN خوش آمدید</translation>
+        <translation>به کنسول آر.پی.سی. DilmaCoin خوش آمدید</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1443,7 +1443,7 @@ Address: %4
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>یک آدرس litecoin وارد کنید (مثال Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>یک آدرس DilmaCoin وارد کنید (مثال Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1466,7 +1466,7 @@ Address: %4
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>یک آدرس litecoin وارد کنید (مثال Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>یک آدرس DilmaCoin وارد کنید (مثال Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1539,7 +1539,7 @@ Address: %4
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>یک آدرس litecoin وارد کنید (مثال Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>یک آدرس DilmaCoin وارد کنید (مثال Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -1560,7 +1560,7 @@ Address: %4
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>یک آدرس litecoin وارد کنید (مثال Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>یک آدرس DilmaCoin وارد کنید (مثال Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2182,7 +2182,7 @@ Address: %4
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
         <source>Litecoin version</source>
-        <translation>نسخه litecoin</translation>
+        <translation>نسخه DilmaCoin</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2192,7 +2192,7 @@ Address: %4
     <message>
         <location line="-29"/>
         <source>Send command to -server or litecoind</source>
-        <translation>ارسال دستور به سرور یا litecoined</translation>
+        <translation>ارسال دستور به سرور یا DilmaCoined</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2212,12 +2212,12 @@ Address: %4
     <message>
         <location line="+24"/>
         <source>Specify configuration file (default: litecoin.conf)</source>
-        <translation>فایل پیکربندیِ را مشخص کنید (پیش فرض: litecoin.conf)</translation>
+        <translation>فایل پیکربندیِ را مشخص کنید (پیش فرض: DilmaCoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Specify pid file (default: litecoind.pid)</source>
-        <translation>فایل pid  را مشخص کنید (پیش فرض: litecoind.pid)</translation>
+        <translation>فایل pid  را مشخص کنید (پیش فرض: DilmaCoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2807,7 +2807,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     <message>
         <location line="+93"/>
         <source>Wallet needed to be rewritten: restart Litecoin to complete</source>
-        <translation>wallet نیاز به بازنویسی دارد. Litecoin را برای تکمیل عملیات دوباره اجرا کنید.</translation>
+        <translation>wallet نیاز به بازنویسی دارد. DilmaCoin را برای تکمیل عملیات دوباره اجرا کنید.</translation>
     </message>
     <message>
         <location line="-95"/>

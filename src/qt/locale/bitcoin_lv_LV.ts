@@ -5,12 +5,12 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Litecoin</source>
-        <translation>Par Litecoin</translation>
+        <translation>Par DilmaCoin</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;Litecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Litecoin&lt;/b&gt; versija</translation>
+        <translation>&lt;b&gt;DilmaCoin&lt;/b&gt; versija</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -271,7 +271,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-56"/>
         <source>Litecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Litecoin aizvērsies, lai pabeigtu šifrēšanu. Atcerieties, ka maciņa šifrēšana nevar pilnībā novērst bitkoinu zādzību, ko veic datorā ieviesušās kaitīgas programmas.</translation>
+        <translation>DilmaCoin aizvērsies, lai pabeigtu šifrēšanu. Atcerieties, ka maciņa šifrēšana nevar pilnībā novērst bitkoinu zādzību, ko veic datorā ieviesušās kaitīgas programmas.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -370,7 +370,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+4"/>
         <source>Show information about Litecoin</source>
-        <translation>Parādīt informāciju par Litecoin</translation>
+        <translation>Parādīt informāciju par DilmaCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -415,12 +415,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-347"/>
         <source>Send coins to a Litecoin address</source>
-        <translation>Nosūtīt bitkoinus uz Litecoin adresi</translation>
+        <translation>Nosūtīt bitkoinus uz DilmaCoin adresi</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Modify configuration options for Litecoin</source>
-        <translation>Mainīt Litecoin konfigurācijas uzstādījumus</translation>
+        <translation>Mainīt DilmaCoin konfigurācijas uzstādījumus</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -532,12 +532,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+47"/>
         <source>Litecoin client</source>
-        <translation>Litecoin klients</translation>
+        <translation>DilmaCoin klients</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
         <source>%n active connection(s) to Litecoin network</source>
-        <translation><numerusform>%n aktīvu savienojumu ar Litecoin tīklu</numerusform><numerusform>%n aktīvs savienojums ar Litecoin tīklu</numerusform><numerusform>%n aktīvu savienojumu as Litecoin tīklu</numerusform></translation>
+        <translation><numerusform>%n aktīvu savienojumu ar Litecoin tīklu</numerusform><numerusform>%n aktīvs savienojums ar DilmaCoin tīklu</numerusform><numerusform>%n aktīvu savienojumu as DilmaCoin tīklu</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -733,7 +733,7 @@ Adrese: %4
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid Litecoin address.</source>
-        <translation>Ierakstītā adrese &quot;%1&quot; nav derīga Litecoin adrese.</translation>
+        <translation>Ierakstītā adrese &quot;%1&quot; nav derīga DilmaCoin adrese.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -752,7 +752,7 @@ Adrese: %4
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
         <source>Litecoin-Qt</source>
-        <translation>Litecoin-Qt</translation>
+        <translation>DilmaCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -815,12 +815,12 @@ Adrese: %4
     <message>
         <location line="+31"/>
         <source>Automatically start Litecoin after logging in to the system.</source>
-        <translation>Automātiski sākt Litecoin pēc pieteikšanās sistēmā.</translation>
+        <translation>Automātiski sākt DilmaCoin pēc pieteikšanās sistēmā.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Start Litecoin on system login</source>
-        <translation>&amp;Sākt Litecoin reizē ar sistēmu</translation>
+        <translation>&amp;Sākt DilmaCoin reizē ar sistēmu</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -840,7 +840,7 @@ Adrese: %4
     <message>
         <location line="+6"/>
         <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Uz rūtera automātiski atvērt Litecoin klienta portu. Tas strādā tikai tad, ja rūteris atbalsta UPnP un tas ir ieslēgts.</translation>
+        <translation>Uz rūtera automātiski atvērt DilmaCoin klienta portu. Tas strādā tikai tad, ja rūteris atbalsta UPnP un tas ir ieslēgts.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -925,7 +925,7 @@ Adrese: %4
     <message>
         <location line="+13"/>
         <source>The user interface language can be set here. This setting will take effect after restarting Litecoin.</source>
-        <translation>Šeit var iestatīt lietotāja valodu. Iestatījums aktivizēsies pēc Litecoin pārstartēšanas.</translation>
+        <translation>Šeit var iestatīt lietotāja valodu. Iestatījums aktivizēsies pēc DilmaCoin pārstartēšanas.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -940,7 +940,7 @@ Adrese: %4
     <message>
         <location line="+9"/>
         <source>Whether to show Litecoin addresses in the transaction list or not.</source>
-        <translation>Rādīt vai nē Litecoin adreses transakciju sarakstā.</translation>
+        <translation>Rādīt vai nē DilmaCoin adreses transakciju sarakstā.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1011,7 +1011,7 @@ Adrese: %4
         <location line="+50"/>
         <location line="+166"/>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Attēlotā informācija var būt novecojusi. Jūsu maciņš pēc savienojuma izveides automātiski sinhronizējas ar Litecoin tīklu, taču šis process vēl nav beidzies.</translation>
+        <translation>Attēlotā informācija var būt novecojusi. Jūsu maciņš pēc savienojuma izveides automātiski sinhronizējas ar DilmaCoin tīklu, taču šis process vēl nav beidzies.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1260,7 +1260,7 @@ Adrese: %4
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
         <source>Welcome to the Litecoin RPC console.</source>
-        <translation>Laipni lūgti Litecoin RPC konsolē.</translation>
+        <translation>Laipni lūgti DilmaCoin RPC konsolē.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1444,7 +1444,7 @@ Adrese: %4
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Ierakstiet Litecoin adresi (piem. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Ierakstiet DilmaCoin adresi (piem. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1561,7 +1561,7 @@ Adrese: %4
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Ierakstiet Litecoin adresi (piem. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Ierakstiet DilmaCoin adresi (piem. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2183,7 +2183,7 @@ Adrese: %4
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
         <source>Litecoin version</source>
-        <translation>Litecoin versija</translation>
+        <translation>DilmaCoin versija</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2193,7 +2193,7 @@ Adrese: %4
     <message>
         <location line="-29"/>
         <source>Send command to -server or litecoind</source>
-        <translation>Nosūtīt komantu uz -server vai litecoind</translation>
+        <translation>Nosūtīt komantu uz -server vai DilmaCoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2213,12 +2213,12 @@ Adrese: %4
     <message>
         <location line="+24"/>
         <source>Specify configuration file (default: litecoin.conf)</source>
-        <translation>Norādiet konfigurācijas failu (pēc noklusēšanas: litecoin.conf)</translation>
+        <translation>Norādiet konfigurācijas failu (pēc noklusēšanas: DilmaCoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Specify pid file (default: litecoind.pid)</source>
-        <translation>Norādiet pid failu (pēc noklusēšanas: litecoind.pid)</translation>
+        <translation>Norādiet pid failu (pēc noklusēšanas: DilmaCoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2803,12 +2803,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     <message>
         <location line="+1"/>
         <source>Error loading wallet.dat: Wallet requires newer version of Litecoin</source>
-        <translation>Nevar ielādēt wallet.dat: maciņa atvēršanai nepieciešama jaunāka Litecoin versija</translation>
+        <translation>Nevar ielādēt wallet.dat: maciņa atvēršanai nepieciešama jaunāka DilmaCoin versija</translation>
     </message>
     <message>
         <location line="+93"/>
         <source>Wallet needed to be rewritten: restart Litecoin to complete</source>
-        <translation>Bija nepieciešams pārstartēt maciņu: pabeigšanai pārstartējiet Litecoin</translation>
+        <translation>Bija nepieciešams pārstartēt maciņu: pabeigšanai pārstartējiet DilmaCoin</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2868,7 +2868,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     <message>
         <location line="-25"/>
         <source>Unable to bind to %s on this computer. Litecoin is probably already running.</source>
-        <translation>Nevar pievienoties %s uz šī datora. Litecoin droši vien jau darbojas.</translation>
+        <translation>Nevar pievienoties %s uz šī datora. DilmaCoin droši vien jau darbojas.</translation>
     </message>
     <message>
         <location line="+64"/>

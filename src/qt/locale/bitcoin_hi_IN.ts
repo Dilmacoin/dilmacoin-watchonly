@@ -1445,7 +1445,7 @@ Address: %4
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Litecoin एड्रेस लिखें (उदाहरण: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>DilmaCoin एड्रेस लिखें (उदाहरण: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1562,7 +1562,7 @@ Address: %4
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Litecoin एड्रेस लिखें (उदाहरण: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>DilmaCoin एड्रेस लिखें (उदाहरण: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2194,7 +2194,7 @@ Address: %4
     <message>
         <location line="-29"/>
         <source>Send command to -server or litecoind</source>
-        <translation>-server या litecoind को कमांड भेजें</translation>
+        <translation>-server या DilmaCoind को कमांड भेजें</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2214,12 +2214,12 @@ Address: %4
     <message>
         <location line="+24"/>
         <source>Specify configuration file (default: litecoin.conf)</source>
-        <translation>configuraion की फाइल का विवरण दें (default: litecoin.conf)</translation>
+        <translation>configuraion की फाइल का विवरण दें (default: DilmaCoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Specify pid file (default: litecoind.pid)</source>
-        <translation>pid फाइल का विवरण दें (default: litecoin.pid)</translation>
+        <translation>pid फाइल का विवरण दें (default: DilmaCoin.pid)</translation>
     </message>
     <message>
         <location line="-1"/>

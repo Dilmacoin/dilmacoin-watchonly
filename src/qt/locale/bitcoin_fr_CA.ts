@@ -5,12 +5,12 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Litecoin</source>
-        <translation>A propos de Litecoin</translation>
+        <translation>A propos de DilmaCoin</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;Litecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Litecoin&lt;/b&gt; version</translation>
+        <translation>&lt;b&gt;DilmaCoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -68,7 +68,7 @@ Ce produit comprend des logiciels développés par le projet OpenSSL pour être 
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
         <source>These are your Litecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Ceux-ci sont vos adresses Litecoin qui vous permettent de recevoir des paiements.  Vous pouvez en donner une différente à chaque expédieur afin de savoir qui vous payent.</translation>
+        <translation>Ceux-ci sont vos adresses DilmaCoin qui vous permettent de recevoir des paiements.  Vous pouvez en donner une différente à chaque expédieur afin de savoir qui vous payent.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -481,7 +481,7 @@ Ce produit comprend des logiciels développés par le projet OpenSSL pour être 
     <message>
         <location line="+22"/>
         <source>&amp;About Litecoin</source>
-        <translation>&amp;A propos de Litecoin</translation>
+        <translation>&amp;A propos de DilmaCoin</translation>
     </message>
     <message>
         <location line="+9"/>
